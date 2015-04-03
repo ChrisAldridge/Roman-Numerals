@@ -1,0 +1,23 @@
+{
+    "properties": [], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [], 
+    "namespace": null, 
+    "name": "NumeralConverterV1", 
+    "tableDeclaration": {
+        "type": "NumeralConverterV1", 
+        "modifiers": [], 
+        "references": [], 
+        "location": {
+            "column": 14, 
+            "line": 5
+        }, 
+        "name": "NumeralConverterV1"
+    }, 
+    "key": "01p24000005WiXOAA0", 
+    "variables": [], 
+    "id": "01p24000005WiXOAA0", 
+    "methods": []
+}
