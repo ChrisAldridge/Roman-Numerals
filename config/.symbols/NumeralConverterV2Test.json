@@ -5,20 +5,20 @@
     "interfaces": [], 
     "constructors": [], 
     "namespace": null, 
-    "name": "NumeralConverterV1Test", 
+    "name": "NumeralConverterV2Test", 
     "tableDeclaration": {
-        "type": "NumeralConverterV1Test", 
+        "type": "NumeralConverterV2Test", 
         "modifiers": [
             "TEST"
         ], 
         "references": [], 
         "location": {
             "column": 15, 
-            "line": 8
+            "line": 9
         }, 
-        "name": "NumeralConverterV1Test"
+        "name": "NumeralConverterV2Test"
     }, 
-    "key": "01p24000005WiXnAAK", 
+    "key": "01p24000005WiY2AAK", 
     "variables": [
         {
             "type": "String", 
@@ -26,7 +26,7 @@
             "references": [], 
             "location": {
                 "column": 10, 
-                "line": 18
+                "line": 19
             }, 
             "name": "testNumeral"
         }, 
@@ -36,12 +36,32 @@
             "references": [], 
             "location": {
                 "column": 11, 
-                "line": 23
+                "line": 24
+            }, 
+            "name": "result"
+        }, 
+        {
+            "type": "String", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 10, 
+                "line": 40
+            }, 
+            "name": "testNumeral"
+        }, 
+        {
+            "type": "Integer", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 11, 
+                "line": 45
             }, 
             "name": "result"
         }
     ], 
-    "id": "01p24000005WiXnAAK", 
+    "id": "01p24000005WiY2AAK", 
     "methods": [
         {
             "modifiers": [
@@ -54,7 +74,23 @@
             "references": [], 
             "location": {
                 "column": 33, 
-                "line": 13
+                "line": 14
+            }, 
+            "returnType": "void", 
+            "type": null
+        }, 
+        {
+            "modifiers": [
+                "TEST", 
+                "STATIC"
+            ], 
+            "name": "ConvertNumeralToInteger_should_convert_II_to_2", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 33, 
+                "line": 35
             }, 
             "returnType": "void", 
             "type": null

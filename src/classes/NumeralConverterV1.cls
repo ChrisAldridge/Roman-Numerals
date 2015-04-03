@@ -5,7 +5,7 @@
 
 	Business requirements for the ConvertNumeralToInteger class are as follow:
 
-	-	When passed "I", the class should return 1
+	x	When passed "I", the class should return 1
 	-	When passed "II", the class should return 2
 	-	When passed "III", the class should return 3
 	-	When passed "IV", the class should return 4

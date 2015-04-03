@@ -1,0 +1,55 @@
+{
+    "properties": [], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [], 
+    "namespace": null, 
+    "name": "NumeralConverterV4", 
+    "tableDeclaration": {
+        "type": "NumeralConverterV4", 
+        "modifiers": [], 
+        "references": [], 
+        "location": {
+            "column": 14, 
+            "line": 18
+        }, 
+        "name": "NumeralConverterV4"
+    }, 
+    "key": "01p24000005WisWAAS", 
+    "variables": [
+        {
+            "type": "String", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 55, 
+                "line": 20
+            }, 
+            "name": "numeral"
+        }
+    ], 
+    "id": "01p24000005WisWAAS", 
+    "methods": [
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "ConvertNumeralToInteger", 
+            "parameters": [
+                {
+                    "type": "String", 
+                    "name": "numeral"
+                }
+            ], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 24, 
+                "line": 20
+            }, 
+            "returnType": "Integer", 
+            "type": null
+        }
+    ]
+}

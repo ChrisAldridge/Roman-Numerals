@@ -1,5 +1,7 @@
 /*
-	Our first business requirement is "I should be converted to 1".  This test will fail because we're currently returning null.
+	Test status:	√ = passing 	x = failing
+
+	x ConvertNumeralToInteger_should_convert_I_to_1
 */
 
 @isTest
@@ -23,6 +25,6 @@ private class NumeralConverterV1Test
 		/*
 			Assert
 		*/
-		System.assertNotEquals(null, result);
+		System.assertEquals(1, result);
 	}
 }
