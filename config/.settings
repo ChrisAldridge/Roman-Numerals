@@ -1,0 +1,19 @@
+{
+    "username": "caldridge1@gmail.com.romannumerals", 
+    "environment": "developer", 
+    "project_name": "RomanNumerals", 
+    "workspace": "/users/chris/Documents/MavensMate", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "9N3BEIPNAUUXHD2MTJ8M48AYROP57TN1", 
+    "metadata_container": "1dc24000000UYN9AAO", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}

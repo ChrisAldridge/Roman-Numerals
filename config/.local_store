@@ -1,0 +1,15 @@
+{
+    "NumeralConverterV1.cls": {
+        "createdById": "00524000000rWCBAA2", 
+        "createdByName": "Chris Aldridge", 
+        "createdDate": "2015-04-03 14:50:39", 
+        "fileName": "unpackaged/classes/NumeralConverterV1.cls", 
+        "fullName": "NumeralConverterV1", 
+        "id": "01p24000005WiXOAA0", 
+        "lastModifiedById": "00524000000rWCBAA2", 
+        "lastModifiedByName": "Chris Aldridge", 
+        "lastModifiedDate": "2015-04-03 14:50:39", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }
+}
