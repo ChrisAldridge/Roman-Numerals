@@ -5,18 +5,18 @@
     "interfaces": [], 
     "constructors": [], 
     "namespace": null, 
-    "name": "NumeralConverterV1", 
+    "name": "NumeralConverterV2", 
     "tableDeclaration": {
-        "type": "NumeralConverterV1", 
+        "type": "NumeralConverterV2", 
         "modifiers": [], 
         "references": [], 
         "location": {
             "column": 14, 
-            "line": 20
+            "line": 21
         }, 
-        "name": "NumeralConverterV1"
+        "name": "NumeralConverterV2"
     }, 
-    "key": "01p24000005WiXOAA0", 
+    "key": "01p24000005WiXxAAK", 
     "variables": [
         {
             "type": "String", 
@@ -24,12 +24,12 @@
             "references": [], 
             "location": {
                 "column": 55, 
-                "line": 22
+                "line": 23
             }, 
             "name": "numeral"
         }
     ], 
-    "id": "01p24000005WiXOAA0", 
+    "id": "01p24000005WiXxAAK", 
     "methods": [
         {
             "modifiers": [
@@ -46,7 +46,7 @@
             "references": [], 
             "location": {
                 "column": 24, 
-                "line": 22
+                "line": 23
             }, 
             "returnType": "Integer", 
             "type": null

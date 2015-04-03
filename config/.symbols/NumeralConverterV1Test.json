@@ -1,0 +1,63 @@
+{
+    "properties": [], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [], 
+    "namespace": null, 
+    "name": "NumeralConverterV1Test", 
+    "tableDeclaration": {
+        "type": "NumeralConverterV1Test", 
+        "modifiers": [
+            "TEST"
+        ], 
+        "references": [], 
+        "location": {
+            "column": 15, 
+            "line": 6
+        }, 
+        "name": "NumeralConverterV1Test"
+    }, 
+    "key": "01p24000005WiXnAAK", 
+    "variables": [
+        {
+            "type": "String", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 10, 
+                "line": 16
+            }, 
+            "name": "testNumeral"
+        }, 
+        {
+            "type": "Integer", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 11, 
+                "line": 21
+            }, 
+            "name": "result"
+        }
+    ], 
+    "id": "01p24000005WiXnAAK", 
+    "methods": [
+        {
+            "modifiers": [
+                "TEST", 
+                "STATIC"
+            ], 
+            "name": "ConvertNumeralToInteger_should_convert_I_to_1", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 33, 
+                "line": 11
+            }, 
+            "returnType": "void", 
+            "type": null
+        }
+    ]
+}
