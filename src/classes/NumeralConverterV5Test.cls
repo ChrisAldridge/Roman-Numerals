@@ -16,19 +16,13 @@ private class NumeralConverterV5Test
 	*/
 	private static testMethod void ConvertNumeralToInteger_should_convert_I_to_1()
 	{
-		/*
-			Arrange
-		*/
+		// Arrange
 		String testNumeral = 'I';
 
-		/*
-			Act
-		*/
+		// Act
 		Integer result = NumeralConverterV5.ConvertNumeralToInteger(testNumeral);
 
-		/*
-			Assert
-		*/
+		// Assert
 		System.assertEquals(1, result);
 	}
 
@@ -37,19 +31,13 @@ private class NumeralConverterV5Test
 	*/
 	private static testMethod void ConvertNumeralToInteger_should_convert_II_to_2()
 	{
-		/*
-			Arrange
-		*/
+		// Arrange
 		String testNumeral = 'II';
 
-		/*
-			Act
-		*/
+		// Act
 		Integer result = NumeralConverterV5.ConvertNumeralToInteger(testNumeral);
 
-		/*
-			Assert
-		*/
+		// Assert
 		System.assertEquals(2, result);
 	}
 
@@ -58,19 +46,13 @@ private class NumeralConverterV5Test
 	*/
 	private static testMethod void ConvertNumeralToInteger_should_convert_III_to_3()
 	{
-		/*
-			Arrange
-		*/
+		// Arrange
 		String testNumeral = 'III';
 
-		/*
-			Act
-		*/
+		// Act
 		Integer result = NumeralConverterV5.ConvertNumeralToInteger(testNumeral);
 
-		/*
-			Assert
-		*/
+		// Assert
 		System.assertEquals(3, result);
 	}
 
@@ -79,19 +61,13 @@ private class NumeralConverterV5Test
 	*/
 	private static testMethod void ConvertNumeralToInteger_should_convert_IV_to_4()
 	{
-		/*
-			Arrange
-		*/
+		// Arrange
 		String testNumeral = 'IV';
 
-		/*
-			Act
-		*/
+		// Act
 		Integer result = NumeralConverterV5.ConvertNumeralToInteger(testNumeral);
 
-		/*
-			Assert
-		*/
+		// Assert
 		System.assertEquals(4, result);
 	}
 
@@ -100,19 +76,13 @@ private class NumeralConverterV5Test
 	*/
 	private static testMethod void ConvertNumeralToInteger_should_convert_V_to_5()
 	{
-		/*
-			Arrange
-		*/
+		// Arrange
 		String testNumeral = 'V';
 
-		/*
-			Act
-		*/
+		// Act
 		Integer result = NumeralConverterV5.ConvertNumeralToInteger(testNumeral);
 
-		/*
-			Assert
-		*/
+		// Assert
 		System.assertEquals(5, result);
 	}
 }

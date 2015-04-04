@@ -26,7 +26,7 @@
             "references": [], 
             "location": {
                 "column": 10, 
-                "line": 19
+                "line": 17
             }, 
             "name": "testNumeral"
         }, 
@@ -36,7 +36,7 @@
             "references": [], 
             "location": {
                 "column": 11, 
-                "line": 24
+                "line": 20
             }, 
             "name": "result"
         }, 
@@ -46,7 +46,7 @@
             "references": [], 
             "location": {
                 "column": 10, 
-                "line": 40
+                "line": 32
             }, 
             "name": "testNumeral"
         }, 
@@ -56,7 +56,7 @@
             "references": [], 
             "location": {
                 "column": 11, 
-                "line": 45
+                "line": 36
             }, 
             "name": "result"
         }
@@ -90,7 +90,7 @@
             "references": [], 
             "location": {
                 "column": 33, 
-                "line": 35
+                "line": 29
             }, 
             "returnType": "void", 
             "type": null

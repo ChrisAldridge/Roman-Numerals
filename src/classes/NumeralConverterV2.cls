@@ -3,8 +3,7 @@
 
 	Notice we are not doing any logic at all - just the bare minimum to pass the test, returning 1.
 
-
-	Business requirements for the ConvertNumeralToInteger class are as follow:
+	Business requirements for the ConvertNumeralToInteger class are as follows:
 
 	√	When passed "I", the class should return 1
 	x	When passed "II", the class should return 2

@@ -12,19 +12,13 @@ private class NumeralConverterV1Test
 	*/
 	private static testMethod void ConvertNumeralToInteger_should_convert_I_to_1()
 	{
-		/*
-			Arrange
-		*/
+		// Arrange
 		String testNumeral = 'I';
 
-		/*
-			Act
-		*/
+		// Act
 		Integer result = NumeralConverterV1.ConvertNumeralToInteger(testNumeral);
 
-		/*
-			Assert
-		*/
+		// Assert
 		System.assertEquals(1, result);
 	}
 }

@@ -1,9 +1,9 @@
 /*
 	First version of the class.  
-	We start with an empty implementation - just returning null.  Our first unit test to test that "I" is converte to "1" will fail
+	We start with an empty implementation - just returning null.  Our first unit test to test that "I" is converted to "1" will fail
 
 
-	Business requirements for the ConvertNumeralToInteger class are as follow:
+	Business requirements for the ConvertNumeralToInteger class are as follows:
 
 	x	When passed "I", the class should return 1
 	-	When passed "II", the class should return 2

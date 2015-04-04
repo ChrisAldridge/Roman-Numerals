@@ -13,19 +13,13 @@ private class NumeralConverterV2Test
 	*/
 	private static testMethod void ConvertNumeralToInteger_should_convert_I_to_1()
 	{
-		/*
-			Arrange
-		*/
+		// Arrange
 		String testNumeral = 'I';
 
-		/*
-			Act
-		*/
+		// Act		
 		Integer result = NumeralConverterV2.ConvertNumeralToInteger(testNumeral);
 
-		/*
-			Assert
-		*/
+		// Assert
 		System.assertEquals(1, result);
 	}
 
@@ -34,19 +28,15 @@ private class NumeralConverterV2Test
 	*/
 	private static testMethod void ConvertNumeralToInteger_should_convert_II_to_2()
 	{
-		/*
-			Arrange
-		*/
+		// Arrange
 		String testNumeral = 'II';
 
-		/*
-			Act
-		*/
+		
+		// Act
 		Integer result = NumeralConverterV2.ConvertNumeralToInteger(testNumeral);
 
-		/*
-			Assert
-		*/
+		
+		// Assert		
 		System.assertEquals(2, result);
 	}
 }

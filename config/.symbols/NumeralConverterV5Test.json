@@ -26,7 +26,7 @@
             "references": [], 
             "location": {
                 "column": 10, 
-                "line": 22
+                "line": 20
             }, 
             "name": "testNumeral"
         }, 
@@ -36,7 +36,7 @@
             "references": [], 
             "location": {
                 "column": 11, 
-                "line": 27
+                "line": 23
             }, 
             "name": "result"
         }, 
@@ -46,7 +46,7 @@
             "references": [], 
             "location": {
                 "column": 10, 
-                "line": 43
+                "line": 35
             }, 
             "name": "testNumeral"
         }, 
@@ -56,7 +56,7 @@
             "references": [], 
             "location": {
                 "column": 11, 
-                "line": 48
+                "line": 38
             }, 
             "name": "result"
         }, 
@@ -66,7 +66,7 @@
             "references": [], 
             "location": {
                 "column": 10, 
-                "line": 64
+                "line": 50
             }, 
             "name": "testNumeral"
         }, 
@@ -76,7 +76,7 @@
             "references": [], 
             "location": {
                 "column": 11, 
-                "line": 69
+                "line": 53
             }, 
             "name": "result"
         }, 
@@ -86,7 +86,7 @@
             "references": [], 
             "location": {
                 "column": 10, 
-                "line": 85
+                "line": 65
             }, 
             "name": "testNumeral"
         }, 
@@ -96,7 +96,7 @@
             "references": [], 
             "location": {
                 "column": 11, 
-                "line": 90
+                "line": 68
             }, 
             "name": "result"
         }, 
@@ -106,7 +106,7 @@
             "references": [], 
             "location": {
                 "column": 10, 
-                "line": 106
+                "line": 80
             }, 
             "name": "testNumeral"
         }, 
@@ -116,7 +116,7 @@
             "references": [], 
             "location": {
                 "column": 11, 
-                "line": 111
+                "line": 83
             }, 
             "name": "result"
         }
@@ -150,7 +150,7 @@
             "references": [], 
             "location": {
                 "column": 33, 
-                "line": 38
+                "line": 32
             }, 
             "returnType": "void", 
             "type": null
@@ -166,7 +166,7 @@
             "references": [], 
             "location": {
                 "column": 33, 
-                "line": 59
+                "line": 47
             }, 
             "returnType": "void", 
             "type": null
@@ -182,7 +182,7 @@
             "references": [], 
             "location": {
                 "column": 33, 
-                "line": 80
+                "line": 62
             }, 
             "returnType": "void", 
             "type": null
@@ -198,7 +198,7 @@
             "references": [], 
             "location": {
                 "column": 33, 
-                "line": 101
+                "line": 77
             }, 
             "returnType": "void", 
             "type": null

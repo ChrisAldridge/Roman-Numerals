@@ -26,7 +26,7 @@
             "references": [], 
             "location": {
                 "column": 10, 
-                "line": 18
+                "line": 16
             }, 
             "name": "testNumeral"
         }, 
@@ -36,7 +36,7 @@
             "references": [], 
             "location": {
                 "column": 11, 
-                "line": 23
+                "line": 19
             }, 
             "name": "result"
         }

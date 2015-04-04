@@ -26,7 +26,7 @@
             "references": [], 
             "location": {
                 "column": 10, 
-                "line": 21
+                "line": 19
             }, 
             "name": "testNumeral"
         }, 
@@ -36,7 +36,7 @@
             "references": [], 
             "location": {
                 "column": 11, 
-                "line": 26
+                "line": 22
             }, 
             "name": "result"
         }, 
@@ -46,7 +46,7 @@
             "references": [], 
             "location": {
                 "column": 10, 
-                "line": 42
+                "line": 34
             }, 
             "name": "testNumeral"
         }, 
@@ -56,7 +56,7 @@
             "references": [], 
             "location": {
                 "column": 11, 
-                "line": 47
+                "line": 37
             }, 
             "name": "result"
         }, 
@@ -66,7 +66,7 @@
             "references": [], 
             "location": {
                 "column": 10, 
-                "line": 63
+                "line": 49
             }, 
             "name": "testNumeral"
         }, 
@@ -76,7 +76,7 @@
             "references": [], 
             "location": {
                 "column": 11, 
-                "line": 68
+                "line": 52
             }, 
             "name": "result"
         }, 
@@ -86,7 +86,7 @@
             "references": [], 
             "location": {
                 "column": 10, 
-                "line": 84
+                "line": 64
             }, 
             "name": "testNumeral"
         }, 
@@ -96,7 +96,7 @@
             "references": [], 
             "location": {
                 "column": 11, 
-                "line": 89
+                "line": 67
             }, 
             "name": "result"
         }
@@ -130,7 +130,7 @@
             "references": [], 
             "location": {
                 "column": 33, 
-                "line": 37
+                "line": 31
             }, 
             "returnType": "void", 
             "type": null
@@ -146,14 +146,13 @@
             "references": [], 
             "location": {
                 "column": 33, 
-                "line": 58
+                "line": 46
             }, 
             "returnType": "void", 
             "type": null
         }, 
         {
             "modifiers": [
-                "TEST", 
                 "STATIC"
             ], 
             "name": "ConvertNumeralToInteger_should_convert_IV_to_4", 
@@ -161,8 +160,8 @@
             "visibility": "PRIVATE", 
             "references": [], 
             "location": {
-                "column": 33, 
-                "line": 79
+                "column": 22, 
+                "line": 61
             }, 
             "returnType": "void", 
             "type": null

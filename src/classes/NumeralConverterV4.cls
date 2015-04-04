@@ -1,7 +1,7 @@
 /*
-	V4
+	V4 - refactored the code to make it more straightforward.
 
-	Business requirements for the ConvertNumeralToInteger class are as follow:
+	Business requirements for the ConvertNumeralToInteger class are as follows:
 
 	√	When passed "I", the class should return 1
 	√	When passed "II", the class should return 2
