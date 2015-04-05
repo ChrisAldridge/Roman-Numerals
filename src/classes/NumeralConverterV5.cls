@@ -1,5 +1,5 @@
 /*
-	V4
+	V5
 
 	Business requirements for the ConvertNumeralToInteger class are as follows:
 
