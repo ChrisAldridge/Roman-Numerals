@@ -15,14 +15,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "src/classes/NumeralConverterV5Test.cls",
-			"settings":
-			{
-				"buffer_size": 1980,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -75,6 +67,7 @@
 	],
 	"file_history":
 	[
+		"/users/chris/Documents/MavensMate/RomanNumerals/README.md",
 		"/users/chris/Documents/MavensMate/RomanNumerals/src/classes/NumeralConverterV5.cls",
 		"/users/chris/Documents/MavensMate/RomanNumerals/src/classes/NumeralConverterV5Test.cls",
 		"/users/chris/Documents/MavensMate/RomanNumerals/src/classes/NumeralConverterV1.cls",
@@ -82,7 +75,6 @@
 		"/users/chris/Documents/MavensMate/RomanNumerals/src/classes/NumeralConverterV2Test.cls",
 		"/users/chris/Documents/MavensMate/RomanNumerals/src/classes/NumeralConverterV3.cls",
 		"/users/chris/Documents/MavensMate/RomanNumerals/src/classes/NumeralConverterV4.cls",
-		"/users/chris/Documents/MavensMate/RomanNumerals/README.md",
 		"/users/chris/Documents/MavensMate/RomanNumerals/src/classes/NumeralConverterV1Test.cls",
 		"/users/chris/Documents/MavensMate/RomanNumerals/src/classes/NumeralConverterV3Test.cls",
 		"/users/chris/Documents/MavensMate/RomanNumerals/src/classes/NumeralConverterV4Test.cls",
@@ -123,38 +115,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "src/classes/NumeralConverterV5Test.cls",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1980,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								994,
-								994
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 300.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],

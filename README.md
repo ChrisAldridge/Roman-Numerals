@@ -5,6 +5,8 @@
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
+This code is the solution to a blog post I did on Test Driven Development with Apex, which can be found <a href="https://chriswritescode.wordpress.com/2015/04/03/test-drive-development-in-apex-the-basics/">here.</a>
+
 Demonstrates using a TDD approach to an easy to understand problem - converting roman numeral strings into Integers.
 
 Each version of the classes show the iterative "Red, Green, Refactor" approach of TDD.
